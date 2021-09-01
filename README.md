@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JDLong01, Joseph Long (former: Joseph Nguyen)
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @JDLong01, Joseph Long - 👀 I’m interested in ...
 - 📫 How to reach me 
       @josephdn@vt.edu
 
